@@ -1,2 +1,3 @@
 # pyggybank
-Interface to netbanking services
+Read Only API for netbanking services
+
